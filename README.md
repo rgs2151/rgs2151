@@ -7,3 +7,4 @@ Even at the moment, I’m merging my two fields - Biomedical Engineering & Infor
 
 
 ![](https://komarev.com/ghpvc/?username=rgs2151&color=ff69b4)
+[![Documentation](https://img.shields.io/badge/LinkedIn-profile-blue)](https://www.linkedin.com/in/rudramanisingha/)
