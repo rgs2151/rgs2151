@@ -1,6 +1,6 @@
 ### Hi there, I’m Rudra 👋
 
-I specialize in Machine Learning and Neural Engineering with a background in statistics and biomedical engineering.
+I specialize in Machine Learning and Neural Engineering with a background in statistics.
 
 
 ![](https://komarev.com/ghpvc/?username=rgs2151&color=ff69b4)
